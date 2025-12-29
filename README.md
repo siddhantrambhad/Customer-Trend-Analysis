@@ -55,7 +55,7 @@ This project demonstrates an end-to-end **data analytics workflow**, covering da
 ## 📊 Dashboard
 Below is a snapshot of the **Power BI dashboard** created for this project.
 
-> 📌 *Add your dashboard screenshot in the `images/` folder and update the path below.*
+
 
 ![Power BI Dashboard](./dashboard.png)
 
